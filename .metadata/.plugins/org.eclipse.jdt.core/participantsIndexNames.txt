@@ -1,0 +1,23 @@
+INDEX VERSION 1.134
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2237719282.index
+\step02_JSPProject\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\27923041.index
+\step02_JSPProject\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1483328239.index
+\step02_JSPProject\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1392948890.index
+\step02_JSPProject\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1143344243.index
+\test\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\344624980.index
+\step02_JSPProject\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2696992534.index
+\step02_JSPProject\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2426914543.index
+\step03_project\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\505728016.index
+\step02_JSPProject\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1971610392.index
+\step02_JSPProject\src\main\java
+D:\work30914\work30914-3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3087611057.index
+\test\src\main\java

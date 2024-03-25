@@ -1,0 +1,7 @@
+package com.dev.biz;
+
+import com.dev.dao.MemberDao;
+
+public class MemberService {
+	MemberDao dao = new MemberDao();
+}

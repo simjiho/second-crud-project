@@ -1,0 +1,10 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
+<jsp:include page="../menu.jsp"/>
+
+<div class="container jumbotron">
+	<h3>검색 결과</h3>
+</div>
+</body>
+</html>

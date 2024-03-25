@@ -1,0 +1,13 @@
+package com.dev.biz.copy;
+
+import com.dev.vo.MemberVO;
+import com.dev.dao.MemberDao;
+
+public class MemberService {
+	MemberDao dao = new MemberDao();
+	
+	public int memberInsert(MemberVO member) {
+		int n = dao.memberInsert(member);
+		return n;
+	}
+}

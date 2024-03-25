@@ -1,0 +1,12 @@
+package com.dev.controller;
+
+import java.lang.ModuleLayer.Controller;
+import java.util.HashMap;
+
+import javax.servlet.http.HttpServlet;
+
+public class FrontController extends HttpServlet{
+	String charset=null;
+	HashMap<String, Controller> list = null;
+
+}

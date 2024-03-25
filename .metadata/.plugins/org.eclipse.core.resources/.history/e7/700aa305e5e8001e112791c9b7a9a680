@@ -1,0 +1,5 @@
+package com.dev.dao.copy;
+
+public class MemberDao {
+
+}

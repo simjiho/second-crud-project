@@ -1,0 +1,23 @@
+package com.dev.biz;
+
+import com.dev.vo.MemberVO;
+import com.dev.dao.MemberDao;
+
+public class MemberService {
+	MemberDao dao = new MemberDao();
+	
+	public int memberInsert(MemberVO member) {
+		int n = dao.memberInsert(member);
+		return n;
+	}
+	
+	public MemberVO memberSearch(String id) {
+		MemberVO member = dao.memberSearch(id);
+		return member;
+	}
+	
+	public int memberUpdate(String id) {
+		MemberVO member = dao.memberSearch(id);
+		return member;
+	}
+}

@@ -1,0 +1,8 @@
+package com.dev.controller;
+
+import javax.servlet.http.HttpServlet;
+
+public class FrontController extends HttpServlet{
+	String charset=null;
+
+}
